@@ -23,3 +23,9 @@ The systematic breakdown of the approach used in this project is given in the ta
 ]
 
 A comprehensive grasp of the historical patterns and trends of these climatic factors, along with forecasting future variations and their impact on food crop yields, is essential. This knowledge empowers stakeholders to proactively implement measures for mitigating effects and enables farmers to enhance productivity.
+
+![![image](https://github.com/Mrtols/Technological-Analysis-of-impact-of-Climate-Change-on-Food-Production/assets/124041963/1368d92d-a306-4b39-b34b-a8594f273bab)
+]
+
+![![image](https://github.com/Mrtols/Technological-Analysis-of-impact-of-Climate-Change-on-Food-Production/assets/124041963/b0f66155-d21e-42fe-a372-2d37cdee9b00)
+]
